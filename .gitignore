@@ -2,7 +2,16 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Platforms
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Characters
+Content/Collections
+Content/Developers
+Content/LevelPrototyping
+
 .vscode
+.vsconfig
 .vs
 *.VC.db
 *.opensdf
